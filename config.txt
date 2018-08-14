@@ -1,0 +1,8 @@
+# My configuration file
+#INDEX_FILE= dsfafsagsg# circumference of a circle
+INDEX_FILE= crawl/index.txt# circumference of a circle
+# Here are some important parameters
+RESTART_PROBABILITY =0.15  #circumference of a circle
+STEP_NUMBER =20 # Base of the natural logarithm
+# The output file is given below
+OUTPUT_FILE =data/index.txt#circumference of a circle
